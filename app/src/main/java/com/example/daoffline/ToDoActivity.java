@@ -95,7 +95,7 @@ public class ToDoActivity extends Activity {
             // Mobile Service URL and key
             mClient = new MobileServiceClient(
                     // "https://daoffline.azurewebsites.net",
-                    "https://mobile-b04784ec-882e-450d-b5ee-c87785adf672.azurewebsites.net/"
+                    "https://mobile-15752293-2583-4e8a-805c-34f130ad8b21.azurewebsites.net/"
                     this).withFilter(new ProgressFilter());
 
             // Extend timeout from default of 10s to 20s
